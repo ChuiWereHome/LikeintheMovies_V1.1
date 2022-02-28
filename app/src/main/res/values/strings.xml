@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Like in the Movies</string>
+    <string name="logo">logo_distriprion</string>
+    <string name="like_in_the_movies">Like in the movies!</string>
+    <string name="movie">MOVIE</string>
+    <string name="filmname">filmName</string>
+    <string name="movie1">Movie</string>
+    <string name="_2008">2008</string>
+    <string name="todo">TODO</string>
+</resources>
